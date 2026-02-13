@@ -16,7 +16,7 @@ A sleek, modern weather application for Android built with Jetpack Compose
 
 ## How to Run
 1. Clone the repository  
-   `git clone https://github.com/JMLHP/MyPersonalWeatherApp.git`
+   `git clone https://github.com/JMLHP/MyWeatherApp.git`
 2. Open the project in **Android Studio**.
 3. Sync Gradle.
 4. Run the app on an emulator or device.
